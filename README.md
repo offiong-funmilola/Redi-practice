@@ -68,3 +68,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+### 'axios package'
+This package was added inorder to interact with the backend which involves sending and receiving data from the backend. to install the package the command npm install axios was ran on the terminal. And the packag and its version can be seen in the package.json file.
